@@ -1,2 +1,8 @@
 # Heroes_of_Pymoli
-Another Python Project. This project uses Pandas, a powerful analytical tool to pull and display specific data.
+# Below is a preview: Pandas Programming
+![](Images/preview1.png)
+-----------------------------
+-----------------------------
+-----------------------------
+-----------------------------
+![](Images/preview2.png)
